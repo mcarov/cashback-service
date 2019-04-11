@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/mcarov/cashback-service.svg?branch=master)](https://travis-ci.org/mcarov/cashback-service)
+[![Build Status](https://travis-ci.org/mcarov/cashback-service.svg?branch=master)](https://travis-ci.org/mcarov/cashback-service) [![codecov](https://codecov.io/gh/mcarov/cashback-service/branch/master/graph/badge.svg)](https://codecov.io/gh/mcarov/cashback-service)
 # Cashback Service
